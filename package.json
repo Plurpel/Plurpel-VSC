@@ -1,0 +1,35 @@
+{
+    "name": "plurpel",
+    "displayName": "Plurpel!",
+    "description": "Purple And Cream Based Theme!",
+    "version": "1.0.0",
+    "publisher": "JhonLikesFloppa",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JhonLikesFloppa/Plurpel"
+    },
+    "keywords": [
+        "dark theme",
+        "jhonlikesfloppa",
+        "jhon",
+        "plurpel",
+        "purple",
+        "blurple",
+        "cream"
+    ],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Plurple!",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Plurple Theme-color-theme.json"
+            }
+        ]
+    }
+}
