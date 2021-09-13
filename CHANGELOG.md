@@ -11,3 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.2.0] - 13/09/2021
 
 - Added An Icon
+
+## [1.2.1] - 13/09/2021
+
+- Added Credits To [Johan](https://github.com/JohanSanSebastian) For His Work/Help In The Project
+- Link Fixing

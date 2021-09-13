@@ -4,6 +4,10 @@
 
 ___
 
+## Special Thanks To
+
+[Johan](https://github.com/JohanSanSebastian) For His Help With Color Palette Choosing And Helping With The Project :)
+
 ## Installation
 
 1. Go to `Extensions`
