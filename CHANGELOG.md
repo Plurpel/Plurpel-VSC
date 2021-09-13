@@ -16,3 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added Credits To [Johan](https://github.com/JohanSanSebastian) For His Work/Help In The Project
 - Link Fixing
+
+## [1.2.2] - 13/09/2021
+
+- Changes To GitHub Repo.
