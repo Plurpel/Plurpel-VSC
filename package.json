@@ -1,9 +1,10 @@
 {
     "name": "plurpel",
     "displayName": "Plurpel!",
-    "description": "Purple And Cream Based Theme!",
+    "description": "Juicy Purple And Cream Based Theme!",
     "icon": "img/Plurpel_128x128.png",
-    "version": "1.2.2",
+    "version": "1.2.3",
+    "license": "MIT",
     "publisher": "JhonLikesFloppa",
     "repository": {
         "type": "git",
