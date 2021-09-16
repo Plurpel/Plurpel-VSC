@@ -3,12 +3,12 @@
     "displayName": "Plurpel!",
     "description": "Juicy Purple And Cream Based Theme!",
     "icon": "img/Plurpel_128x128.png",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "license": "MIT",
     "publisher": "JhonLikesFloppa",
     "repository": {
         "type": "git",
-        "url": "https://github.com/JhonLikesFloppa/Plurpel-VSC"
+        "url": "https://github.com/Plurpel/Plurpel-VSC"
     },
     "keywords": [
         "dark theme",

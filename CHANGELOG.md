@@ -25,3 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Description Changed.
 - License Added
+
+## [1.2.4] - 16/09/2021
+
+- GitHub Repo. Change
