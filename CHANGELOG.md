@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated README.md
 - Rebuilt Entire Theme From Ground Up
 
-## [2.0.1/2.0.2/2.0.3] - 10/06/2023
+## [2.0.3] - 10/06/2023
 
 - Updated README.md With New Screenshots
 - Removed Some Borders So The Theme Looks More Clean
