@@ -3,16 +3,15 @@
     "displayName": "Plurpel!",
     "description": "Juicy Purple And Cream Based Theme!",
     "icon": "img/Plurpel_128x128.png",
-    "version": "1.2.4",
+    "version": "2.0.0",
     "license": "MIT",
-    "publisher": "JhonLikesFloppa",
+    "publisher": "SahalMoh",
     "repository": {
         "type": "git",
         "url": "https://github.com/Plurpel/Plurpel-VSC"
     },
     "keywords": [
         "dark theme",
-        "jhonlikesfloppa",
         "jhon",
         "plurpel",
         "purple",
@@ -30,7 +29,7 @@
             {
                 "label": "Plurple!",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Plurple Theme-color-theme.json"
+                "path": "./themes/plurpel-vsc-color-theme.json"
             }
         ]
     }
