@@ -39,3 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated README.md With New Screenshots
 - Removed Some Borders So The Theme Looks More Clean
+
+# [2.0.4] - 12/06/2023
+
+- Fixed An Issue Where Selecting Text In Search Bar Would Make It Invisible

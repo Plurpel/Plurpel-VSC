@@ -1,10 +1,10 @@
 {
-    "name": "plurpel",
-    "displayName": "Plurpel!",
-    "description": "Juicy Purple And Cream Based Theme!",
-    "icon": "img/Plurpel_128x128.png",
-    "version": "2.0.3",
-    "license": "MIT",
+  "name": "plurpel",
+  "displayName": "Plurpel!",
+  "description": "Juicy & Creamy Theme For Visual Studio Code",
+  "icon": "img/Plurpel_128x128.png",
+  "version": "2.0.4",
+  "license": "MIT",
     "publisher": "JhonLikesFloppa",
     "repository": {
         "type": "git",
@@ -18,19 +18,19 @@
         "blurple",
         "cream"
     ],
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Plurple!",
-                "uiTheme": "vs-dark",
-                "path": "./themes/plurpel-vsc-color-theme.json"
-            }
-        ]
-    }
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Plurpel!",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plurpel-vsc-color-theme.json"
+      }
+    ]
+  }
 }
