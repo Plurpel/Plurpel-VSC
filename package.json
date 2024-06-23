@@ -5,19 +5,18 @@
   "icon": "img/Plurpel_128x128.png",
   "version": "2.0.6",
   "license": "MIT",
-    "publisher": "JhonLikesFloppa",
-    "repository": {
+  "publisher": "JhonLikesFloppa",
+  "repository": {
         "type": "git",
         "url": "https://github.com/Plurpel/Plurpel-VSC"
-    },
-    "keywords": [
-        "dark theme",
-        "jhon",
-        "plurpel",
-        "purple",
-        "blurple",
-        "cream"
-    ],
+  },
+  "keywords": [
+      "dark theme",
+      "plurpel",
+      "purple",
+      "blurple",
+      "cream"
+  ],
   "engines": {
     "vscode": "^1.79.0"
   },
