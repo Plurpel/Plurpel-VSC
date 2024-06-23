@@ -43,3 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 # [2.0.4] - 12/06/2023
 
 - Fixed An Issue Where Selecting Text In Search Bar Would Make It Invisible
+
+# [2.0.6] - 23/06/2024
+
+- Updated Selection Background
